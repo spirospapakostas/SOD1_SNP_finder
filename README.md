@@ -7,7 +7,7 @@ The script is a Python code developed in-house to address a problem with genotyp
 
 2) HOW TO RUN
 
-The script requires Python to be pre-installed on your computer. To run the script, locate and double-click the "SOD_SNP_finder_rev_v.1.2.py" file in the "SOD_SNP_finder_rev_v.1.2" folder.
+The script requires Python to be pre-installed on your computer. Download and unzip the file. To run the script, locate and double-click the "SOD_SNP_finder_rev_v.1.2.py" file in the "SOD_SNP_finder_rev_v.1.2" folder. Yoy may also run the script by the Terminal app.
 
 Once you have opened the script, you will be prompted to input your sequence data into the respective cell. If you encounter a double peak in the chromatogram, you should use the corresponding IUPAC code for degenerate nucleotides (e.g., 'W' for an 'A/T' double peak). After inputting your sequence, press the "Find SNP" button.
 
